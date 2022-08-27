@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactforms-deploy/static/css/main.7346d8bd.css",
+    "main.js": "/reactforms-deploy/static/js/main.59599298.js",
+    "index.html": "/reactforms-deploy/index.html",
+    "main.7346d8bd.css.map": "/reactforms-deploy/static/css/main.7346d8bd.css.map",
+    "main.59599298.js.map": "/reactforms-deploy/static/js/main.59599298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7346d8bd.css",
+    "static/js/main.59599298.js"
+  ]
+}
